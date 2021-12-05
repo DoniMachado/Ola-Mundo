@@ -1,2 +1,3 @@
-# Ola Mundo
- Primeiro repositório, teste de git e github
+# Olá, Mundo!
+ Primeiro repositório, teste de git e github.
+ Repositório criado para estudos da utilização da ferramenta.
